@@ -1,2 +1,7 @@
 * hello
-  +  [[https://raw.githubusercontent.com/harrifeng/harrifeng.github.io/master/static/images/cpf9.png][cpf9]]
+  + pic
+    #+CAPTION: This is the caption for the next figure link (or table)
+    #+NAME:   fig:SED-HR4049
+    [[https://raw.githubusercontent.com/harrifeng/harrifeng.github.io/master/static/images/cpf9.png]]
+     
+     
