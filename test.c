@@ -1,6 +1,6 @@
-#include <iostream>
-ddd
-helo
-cc
-we
-helo
+int main(int argc, char *argv[])
+{
+    printf("hello world\n");
+    return 0;
+
+}
