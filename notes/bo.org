@@ -27,9 +27,9 @@
 ** SSO
    #+begin_example
 
-                    Browser         SAML SP          SAML IDP
+                    Browser         SAML SP              SAML IDP
 
-                                      Jam             BizzX
+                                      Jam                BizzX
                        |  --------------> | GET            |
                        |  +-------------< | need Group     |
                        |  |               |                |
@@ -45,3 +45,6 @@
                        |                  |                |
                                         idp.rb
    #+end_example
+   + Admin ==> Trusted IDP
+   + Help SAP documentation.
+   + One know private key, the other know the assertion.
