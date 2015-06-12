@@ -1,0 +1,22 @@
+* Bo share
+** Process Not formal
+   + reasons:
+** JEAP Team Process
+   + JEAP Sprint and Release Planning Group
+   + Every quarter create one folder: What's the things going to be done.
+   + For example Box, as it is external application, how to test it is a question.
+   + Personal license is needed for box integration.
+   + In Clob, Devs are interchangable. Change area in a control way.
+   + Top level categories are apart at first, to create multiple categories.
+   + Have problem to contact the Second leader to contact.
+   + Capacity plan
+   + We don't have product manager.
+** VersionOne
+   + Epic has its ID
+   + Get things out of door, and then make the decision.
+   + Close this backlog if the dev complete in the sprint 1
+   + Link to a wiki. for a backlog
+** Two solutions:
+   + put the backlog into two
+   + change the priority
+   + two weeks before the start and commitment.
