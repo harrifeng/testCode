@@ -20,3 +20,28 @@
    + put the backlog into two
    + change the priority
    + two weeks before the start and commitment.
+** Security
+   + session is stored in the client.
+   + signature is after '--'
+   + everything you put into the session can be found by hackers.
+** SSO
+   #+begin_example
+
+                    Browser         SAML SP          SAML IDP
+
+                                      Jam             BizzX
+                       |  --------------> | GET            |
+                       |  +-------------< | need Group     |
+                       |  |               |                |
+                       |  +-------------> | saml sso       |
+                       |                  |                |
+                       |  +---------------| POST Auth req  |
+                       |  |               |                |
+                       |  +---------------+--------------->| user loggin is
+                       |                  |                |
+                       |  +---------------+----------------| POST
+                       |  |               |                |
+                       |  +-------------->| Redirect to grp|
+                       |                  |                |
+                                        idp.rb
+   #+end_example
