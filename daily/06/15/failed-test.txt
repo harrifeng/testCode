@@ -1,0 +1,7 @@
+ruby -I test test/integration/inbox_items_api_test.rb -n test_get_empty_inbox_item
+
+ruby -I test test/integration/inbox_items_api_test.rb -n test_get_empty_inbox_item_default_v2
+
+ruby -I test test/integration/single_use_tokens_integration_test.rb -n test_never_login_saml_member
+
+ruby -I test test/integration/single_use_tokens_integration_test.rb -n test_noEULA_member
