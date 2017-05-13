@@ -3,7 +3,7 @@
     "dbpath" : "data",
     "repos" : {
         "SomeGitRepo" : {
-            "url" : "https://www.github.com/harrifeng/dotemacsd.git"
-        },
+            "url" : "https://github.com/harrifeng/dotemacsd.git"
+        }
     }
 }
