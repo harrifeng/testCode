@@ -4,6 +4,12 @@
     "repos" : {
         "SomeGitRepo" : {
             "url" : "https://github.com/harrifeng/dotemacsd.git"
+        },
+        "BSomeGitRepo" : {
+            "url" : "git@git.coding.net:harrifeng/shell-log.git"
+        },
+        "ASomeGitRepo" : {
+            "url" : "git@github.com:harrifeng/leet-in-go.git"
         }
     }
 }
